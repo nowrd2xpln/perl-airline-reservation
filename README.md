@@ -1,0 +1,2 @@
+# perl-airline-reservation
+The purpose of this paper is to document the final project for CMPE207, Network Programming   and Applications. The final project consists of creating an airline reservation system using   network sockets through PERL. The group established a flight and passenger database, wrote   the client and server code, and tested the system over a private network. This project aims to exemplify the flexibility of PERL sockets and database modules.
